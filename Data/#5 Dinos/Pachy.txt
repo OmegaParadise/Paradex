@@ -1,0 +1,24 @@
+Name: Pachy
+Base Damage: 10
+Rarity Group Number: 7
+Paragon Shard Value: 4
+
+Uniques:
+Unique Name: Fuel
+Variants: Fire / Wood
+Spawn Weight: 1.0
+
+Unique Name: Bag-A-Lag
+Variants: Colossus / Taming
+Spawn Weight: 0.5
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

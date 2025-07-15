@@ -1,0 +1,19 @@
+Name: Compy
+Base Damage: 4
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Firecracker
+Variants: Overlord / Self-Destructive
+Spawn Weight: 1.0
+
+Unique Name: Compfrey
+Variants: Frenzy / Potion
+Spawn Weight: 0.25
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

@@ -1,0 +1,28 @@
+Name: Dodo
+Base Damage: 5
+Rarity Group Number: 10
+Paragon Shard Value: 1
+
+Uniques:
+Unique Name: Kenny
+Variants: Phoenix / Self-Destructive
+Spawn Weight: 1.0
+
+Unique Name: Amy The Amers
+Variants: Colossus / Shield
+Spawn Weight: 1.0
+
+Unique Name: The D20
+Variants: Loot / Self-Destructive
+Spawn Weight: 0.5
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

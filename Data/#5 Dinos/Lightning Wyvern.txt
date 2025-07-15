@@ -1,0 +1,23 @@
+Name: Lightning Wyvern
+Base Damage: 80
+Rarity Group Number: 3
+Paragon Shard Value: 8
+
+Uniques:
+Unique Name: Storm
+Variants: Thunderstorm / Blizzard
+Spawn Weight: 1.0
+
+Unique Name: Spyro
+Variants: Tracker / Spiritual
+Spawn Weight: 1.0
+
+Unique Name: Raiden
+Variants: Rampage / Gorgon
+Spawn Weight: 0.5
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

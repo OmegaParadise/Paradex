@@ -1,0 +1,19 @@
+Name: Troodon
+Base Damage: 14
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Brood
+Variants: Cloner / Vampire
+Spawn Weight: 1.0
+
+Unique Name: Fright
+Variants: Overlord / Ghost
+Spawn Weight: 0.5
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

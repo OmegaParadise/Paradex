@@ -1,0 +1,27 @@
+Name: Carnotaurus
+Base Damage: 35
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Impulse
+Variants: Teleporter / Knockback
+Spawn Weight: 1.0
+
+Unique Name: Fallout
+Variants: Meteor / Reactive
+Spawn Weight: 0.5
+
+Unique Name: Major Payne
+Variants: Stalker / Gorgon
+Spawn Weight: 0.75
+
+Unique Name: Jawbreaker
+Variants: Colossus / Spiritual
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat
