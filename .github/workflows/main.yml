@@ -35,7 +35,7 @@ jobs:
         with:
           server: 86.52.52.125
           username: User
-          password: Storegade-34
+          password: ${{ secrets.password }}
           port: 21
           exclude: |
             **/.git*
